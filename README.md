@@ -24,7 +24,7 @@
 
 ```bash
 $ whoami
-shane — go-to-market for developer tools
+shane — go-to-market for ai & developer tools
 
 $ cat ~/what-i-actually-do.txt
 I make technical products sound like a human wrote the copy.

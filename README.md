@@ -65,6 +65,7 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 - **Founder** of [The DevTool GTM Company](https://thedevtoolgtmcompany.com) — go-to-market advisory for AI & developer-first startups.
 - **Fractional GTM advisor** at [QC Growth](https://www.qcgrowth.com).
 - Building on the side — most recently a CRM-agnostic *revenue signal layer* that scores intent and routes hot accounts to reps automatically.
+- 👀 Keeping an eye on some exciting-looking AI & dev-tool projects → **[my watchlist ↗](https://github.com/AIDevGTM/ai-devtools-watchlist)** (auto-refreshed weekly)
 
 **Allergic to**
 - growth-hacking, "just circling back," and treating developers like a funnel.

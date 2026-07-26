@@ -34,7 +34,7 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 **What I'm good at**
 - Positioning & messaging that survives contact with a skeptical engineer
 - Founder-led outbound that reads like a person, not a sequence
-- Channel strategy — HN, Reddit, docs, OSS-led, PLG — the right ones, not all of them
+- Channel strategy: HN, Reddit, docs, OSS-led, PLG, the right ones, not all of them
 - Building something to help turn anonymous intent into real pipeline
 
 **The GTM stack I run**
@@ -62,12 +62,26 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 </p>
 
 **Currently**
-- **Founder** of [The DevTool GTM Company](https://thedevtoolgtmcompany.com) — go-to-market advisory for AI & developer-first startups.
+- **Founder** of [The DevTool GTM Company](https://thedevtoolgtmcompany.com), go-to-market advisory for AI and developer-first startups.
 - **Fractional GTM advisor** at [QC Growth](https://www.qcgrowth.com).
-- Building on the side — most recently a CRM-agnostic *revenue signal layer* that scores intent and routes hot accounts to reps automatically.
+- **Open source**: [The GTM Co-Founder](https://github.com/AIDevGTM/gtm-cofounder), free GTM Agent Skills for technical founders building alone.
+- Building on the side: most recently a CRM-agnostic *revenue signal layer* that scores intent and routes hot accounts to reps automatically.
 
 **Allergic to**
 - growth-hacking, "just circling back," and treating developers like a funnel.
+
+---
+
+### `$ ./the-gtm-co-founder`
+
+**[The GTM Co-Founder](https://github.com/AIDevGTM/gtm-cofounder)** is my open-source GTM Agent Skills pack for the technical founder building alone.
+
+Answer five questions and your AI agent builds you a prioritized go-to-market plan, then works it with you: positioning, first users, launch, pricing. Free, MIT, built from real dev-tool GTM experience and sharpened by Adam Frankl and Jakub Czakon.
+
+<p>
+<a href="https://github.com/AIDevGTM/gtm-cofounder"><img src="https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=for-the-badge&color=00FFE6&labelColor=000000&label=%E2%98%85%20gtm-cofounder"/></a>
+<a href="https://gtmcofounder.com"><img src="https://img.shields.io/badge/gtmcofounder.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFE6"/></a>
+</p>
 
 <div align="center">
 
@@ -88,9 +102,9 @@ Signal in → pipeline out, minus the 15 disconnected tools and the busywork.
 <br/>
 <sub><b style="color:#00FFE6">❝</b></sub>
 <br/>
-<em>Shane is a rare blend of execution power and empathy. He seems to know everyone — and more importantly, everyone trusts him. He's the kind of Sales and GTM Swiss Army knife every early-stage startup dreams of.</em>
+<em>Shane is a rare blend of execution power and empathy. He seems to know everyone, and more importantly, everyone trusts him. He's the kind of Sales and GTM Swiss Army knife every early-stage startup dreams of.</em>
 <br/><br/>
-<b>Hans</b> — Co-Founder @ Scalar
+<b>Hans</b>, Co-Founder @ Scalar
 <br/>
 </td></tr>
 </table>
